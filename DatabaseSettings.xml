@@ -1,7 +1,7 @@
 <DatabaseSettings>
-  <Collation>SQL_Latin1_General_CP850_BIN2</Collation>
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
   <ServerVersion>Sql2012</ServerVersion>
   <ServerName>bio-bows03</ServerName>
   <DatabaseName>source_control_test</DatabaseName>
-  <DatabaseInformation Version="1" />
+  <DatabaseInformation Version="2" />
 </DatabaseSettings>
